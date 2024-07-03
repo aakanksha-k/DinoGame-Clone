@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
-import dinoImage from '../Assets/dinosaur.png';
+import dinoImage from '../public/images/dinosaur.png';
 
 const DinoContainer = styled.div`
   position: absolute;
