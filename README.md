@@ -33,9 +33,11 @@ AWS ElasticBeanstalk
 `npm install @react-spring/web`
 
 3. My Project Structure overview on VS Code:
+   
 ![Screenshot (1099)](https://github.com/aakanksha-k/DinoGame-Clone/assets/136099041/54928e9f-accb-406e-b822-1a420c5194db)
 
-4. Game Components
+5. Game Components
+   
 Create [`Game.js`](https://github.com/aakanksha-k/DinoGame-Clone/blob/master/src/components/Game.js) file to manage the game state and render other logical components like, Obstacle Spawning, Collision Detection. 
 
 Create [`Dino.js`](https://github.com/aakanksha-k/DinoGame-Clone/blob/master/src/components/Dino.js) to represent the dinosaur avatar and handle jumping over the said obstacles. 
@@ -48,7 +50,7 @@ Integrated the above components in [`App.js`](https://github.com/aakanksha-k/Din
 Run the application to test all game mechanics using: \
 `npm start`
 
-Ensur the development server starts correctly and the game functions as expected on the local browser.
+Ensure the development server starts correctly and the game functions as expected on the local browser.
 
 ![image](https://github.com/aakanksha-k/DinoGame-Clone/assets/136099041/d4a1d725-b05f-4fc4-b627-6f04d687a589)
 
