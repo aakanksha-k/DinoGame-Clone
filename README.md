@@ -65,7 +65,8 @@ Ensure the development server starts correctly and the game functions as expecte
 4.	Once initialized, add all the components & files, of Dino Game clone from the earlier directory.
    
 ![image](https://github.com/aakanksha-k/DinoGame-Clone/assets/136099041/67ff4a2e-fa1a-46fa-911f-037c14b67b43)
-6.	Ensure react application is running correctly on the local browser
+
+5.	Ensure react application is running correctly on the local browser
 
 \
 Hence, a basic react web application is successfully built inside the docker container.
